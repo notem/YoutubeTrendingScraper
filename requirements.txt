@@ -1,0 +1,3 @@
+google
+google-auth-oauthlib
+-e git://github.com/googleapis/google-api-python-client.git#egg=googleapiclient
